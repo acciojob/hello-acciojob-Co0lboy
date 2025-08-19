@@ -2,11 +2,11 @@
 /* Your CSS Code here. */
 main{
 	width:150px;
-	max-height:150px;
+	height:150px;
 	background-color:#000000;
 }
-p{
+.hello-accio{
 	color:white;
-	left:32px;
+	margin-left:32px;
 	padding:10px;
 }
